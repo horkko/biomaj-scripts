@@ -1,5 +1,5 @@
-biomaj-scripts
-==============
+# biomaj-scripts
+================
 
 This project aims to centralize and make accessible some scripts that the community using [biomaj](https://biomaj.github.io)
 or [biomaj-manager](https://github.com/horkko/biomaj-manager) have developped for their own usage.
