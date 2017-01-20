@@ -1,0 +1,6 @@
+scripts/*.pyc
+.idea
+*.egg
+*~
+.dbshell
+
