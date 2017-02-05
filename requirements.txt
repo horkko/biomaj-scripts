@@ -1,4 +1,4 @@
 biomaj>=3.0.20
 biomaj-manager=>1.1.10
-
+nose
 
